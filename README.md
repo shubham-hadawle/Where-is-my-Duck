@@ -10,8 +10,8 @@ The game is called "Where is my Duck?", where the player takes on the role of Mr
 
 
 The game is also available to be downloaded on Windows, macOS and Linux. </br>
-https://shubham-hadawle.itch.io/where-is-my-duck
+Link: https://shubham-hadawle.itch.io/where-is-my-duck
 
-
+<img width="256" alt="app_icon" src="https://user-images.githubusercontent.com/84302868/234224728-c548156a-4d65-4a80-8ca3-910182aeb272.png">
 
 I would love for you to check it out and let me know what you think. Your support and feedback would mean a lot to me. So, definitely check it out and 'Rate' the game on Play Store. Even an honest 'Review' would be appreciated!
